@@ -1,0 +1,95 @@
+Certificate:
+    Data:
+        Version: 3 (0x2)
+        Serial Number: 1 (0x1)
+    Signature Algorithm: sha1WithRSAEncryption
+        Issuer: C=uk, ST=tne & wear, L=SMD, O=SMD, OU=software, CN=PI1/name=keith lawson/emailAddress=keith.lawson@smd.co.uk
+        Validity
+            Not Before: Jun 26 14:47:55 2017 GMT
+            Not After : Jun 24 14:47:55 2027 GMT
+        Subject: C=uk, ST=tyne & wear, L=wallsend, O=smd, OU=control, CN=work_laptop/name=keith lawson/emailAddress=keith.lawson@smd.co.uk
+        Subject Public Key Info:
+            Public Key Algorithm: rsaEncryption
+                Public-Key: (2048 bit)
+                Modulus:
+                    00:e2:f6:db:ea:a5:57:96:6a:89:46:ae:b4:c8:b5:
+                    5a:e4:11:ae:37:69:23:06:7a:cd:40:83:dd:61:0c:
+                    25:29:6f:01:ae:d5:38:79:3d:de:81:a9:a1:56:c4:
+                    05:bd:69:d3:6f:56:de:00:7c:66:ad:29:32:5f:3d:
+                    07:d3:77:8f:64:ec:d0:58:04:91:4f:a0:e5:ae:68:
+                    3b:c0:ff:9f:31:3e:69:4a:02:b8:ad:3f:df:db:f7:
+                    4f:ef:9f:9b:df:e0:1c:69:6e:7b:0e:74:78:d8:5b:
+                    50:43:05:f1:1c:6e:1c:27:b2:e8:da:7f:51:82:e1:
+                    e5:e3:0b:c2:9b:16:96:25:ae:d8:19:7a:31:00:7f:
+                    50:27:90:8c:bc:bf:94:a6:fd:d8:36:2f:1c:4d:60:
+                    27:74:57:7d:12:a2:e3:be:82:46:af:c2:7d:17:84:
+                    a8:20:14:11:34:08:04:64:b0:48:6d:3a:e9:98:6e:
+                    33:8b:b7:1e:63:57:10:d4:ec:91:49:05:78:a9:ac:
+                    95:9d:13:52:20:6e:94:75:97:74:63:71:2a:6b:8a:
+                    16:70:20:06:05:5b:6c:a8:67:ed:a7:e4:ad:19:73:
+                    4c:7c:9a:61:d5:a2:8e:5b:31:c7:f7:78:ca:0b:78:
+                    72:28:fe:4d:e2:32:bf:d5:1c:e8:75:ad:90:d6:6a:
+                    02:89
+                Exponent: 65537 (0x10001)
+        X509v3 extensions:
+            X509v3 Basic Constraints: 
+                CA:FALSE
+            Netscape Comment: 
+                Easy-RSA Generated Certificate
+            X509v3 Subject Key Identifier: 
+                E3:16:EE:98:B7:9F:49:23:78:4F:95:5F:91:B5:A0:AD:74:7E:40:C0
+            X509v3 Authority Key Identifier: 
+                keyid:B0:ED:14:CF:B6:08:15:95:84:01:4A:15:3F:3C:D5:E4:99:24:D7:58
+                DirName:/C=uk/ST=tne & wear/L=SMD/O=SMD/OU=software/CN=PI1/name=keith lawson/emailAddress=keith.lawson@smd.co.uk
+                serial:C0:A9:7B:53:06:94:EB:0F
+
+            X509v3 Extended Key Usage: 
+                TLS Web Client Authentication
+            X509v3 Key Usage: 
+                Digital Signature
+    Signature Algorithm: sha1WithRSAEncryption
+         02:5b:09:38:27:67:e9:e3:60:59:c7:80:79:ff:e1:ad:70:a0:
+         7f:f9:35:9b:c5:eb:69:8c:31:02:c6:60:8c:9e:8b:ed:06:b9:
+         e2:b2:c7:68:da:10:1a:b1:77:45:53:73:60:fb:92:17:d3:02:
+         4e:a5:99:08:89:55:32:6e:6b:64:00:10:1e:1a:ca:b5:b1:52:
+         ae:f1:d8:a9:63:24:20:a1:7e:91:be:fb:eb:bf:62:51:f4:54:
+         d6:45:10:0d:9a:aa:f7:d7:ee:77:a0:fe:49:a4:6e:33:15:e9:
+         e4:e4:e9:9a:a0:22:7b:84:fa:e9:18:a7:b5:1c:07:25:82:6f:
+         08:ba:51:98:16:73:32:64:bb:62:e1:6e:2e:36:d4:9f:44:5b:
+         21:ee:a2:a9:63:56:9e:6b:72:e3:c8:b9:69:96:04:87:1d:e0:
+         e0:de:25:96:64:b6:79:e0:b4:3e:e8:13:87:d9:06:33:6f:e8:
+         54:01:6e:f4:3d:1b:df:e8:a5:ae:34:97:55:ec:95:0f:62:5e:
+         7c:4e:97:2b:f0:81:f4:42:04:8b:aa:34:60:5c:cc:0c:c3:4f:
+         0e:19:fe:19:19:c8:a6:ce:ee:9b:4c:e2:e6:b6:8a:9a:63:aa:
+         fc:d6:e0:5a:db:ab:f9:14:d5:b2:54:3b:49:7c:4b:da:64:0b:
+         65:d7:c5:b7
+-----BEGIN CERTIFICATE-----
+MIIFGjCCBAKgAwIBAgIBATANBgkqhkiG9w0BAQUFADCBnTELMAkGA1UEBhMCdWsx
+EzARBgNVBAgUCnRuZSAmIHdlYXIxDDAKBgNVBAcTA1NNRDEMMAoGA1UEChMDU01E
+MREwDwYDVQQLEwhzb2Z0d2FyZTEMMAoGA1UEAxMDUEkxMRUwEwYDVQQpEwxrZWl0
+aCBsYXdzb24xJTAjBgkqhkiG9w0BCQEWFmtlaXRoLmxhd3NvbkBzbWQuY28udWsw
+HhcNMTcwNjI2MTQ0NzU1WhcNMjcwNjI0MTQ0NzU1WjCBqjELMAkGA1UEBhMCdWsx
+FDASBgNVBAgUC3R5bmUgJiB3ZWFyMREwDwYDVQQHEwh3YWxsc2VuZDEMMAoGA1UE
+ChMDc21kMRAwDgYDVQQLEwdjb250cm9sMRQwEgYDVQQDFAt3b3JrX2xhcHRvcDEV
+MBMGA1UEKRMMa2VpdGggbGF3c29uMSUwIwYJKoZIhvcNAQkBFhZrZWl0aC5sYXdz
+b25Ac21kLmNvLnVrMIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEA4vbb
+6qVXlmqJRq60yLVa5BGuN2kjBnrNQIPdYQwlKW8BrtU4eT3egamhVsQFvWnTb1be
+AHxmrSkyXz0H03ePZOzQWASRT6Dlrmg7wP+fMT5pSgK4rT/f2/dP75+b3+AcaW57
+DnR42FtQQwXxHG4cJ7Lo2n9RguHl4wvCmxaWJa7YGXoxAH9QJ5CMvL+Upv3YNi8c
+TWAndFd9EqLjvoJGr8J9F4SoIBQRNAgEZLBIbTrpmG4zi7ceY1cQ1OyRSQV4qayV
+nRNSIG6UdZd0Y3Eqa4oWcCAGBVtsqGftp+StGXNMfJph1aKOWzHH93jKC3hyKP5N
+4jK/1Rzoda2Q1moCiQIDAQABo4IBVDCCAVAwCQYDVR0TBAIwADAtBglghkgBhvhC
+AQ0EIBYeRWFzeS1SU0EgR2VuZXJhdGVkIENlcnRpZmljYXRlMB0GA1UdDgQWBBTj
+Fu6Yt59JI3hPlV+RtaCtdH5AwDCB0gYDVR0jBIHKMIHHgBSw7RTPtggVlYQBShU/
+PNXkmSTXWKGBo6SBoDCBnTELMAkGA1UEBhMCdWsxEzARBgNVBAgUCnRuZSAmIHdl
+YXIxDDAKBgNVBAcTA1NNRDEMMAoGA1UEChMDU01EMREwDwYDVQQLEwhzb2Z0d2Fy
+ZTEMMAoGA1UEAxMDUEkxMRUwEwYDVQQpEwxrZWl0aCBsYXdzb24xJTAjBgkqhkiG
+9w0BCQEWFmtlaXRoLmxhd3NvbkBzbWQuY28udWuCCQDAqXtTBpTrDzATBgNVHSUE
+DDAKBggrBgEFBQcDAjALBgNVHQ8EBAMCB4AwDQYJKoZIhvcNAQEFBQADggEBAAJb
+CTgnZ+njYFnHgHn/4a1woH/5NZvF62mMMQLGYIyei+0GueKyx2jaEBqxd0VTc2D7
+khfTAk6lmQiJVTJua2QAEB4ayrWxUq7x2KljJCChfpG+++u/YlH0VNZFEA2aqvfX
+7neg/kmkbjMV6eTk6ZqgInuE+ukYp7UcByWCbwi6UZgWczJku2Lhbi421J9EWyHu
+oqljVp5rcuPIuWmWBIcd4ODeJZZktnngtD7oE4fZBjNv6FQBbvQ9G9/opa40l1Xs
+lQ9iXnxOlyvwgfRCBIuqNGBczAzDTw4Z/hkZyKbO7ptM4ua2ippjqvzW4Frbq/kU
+1bJUO0l8S9pkC2XXxbc=
+-----END CERTIFICATE-----
